@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3c05026c28b9c8f4e9ac840cd4cfeff8
+timeCreated: 1576194965
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159488
+  packageName: Simple 2D Platformer Template
+  packageVersion: 1.04
+  assetPath: Assets/IndieMarc/Platformer2D/Sprites/Objects/Coin.anim
+  uploadId: 513708

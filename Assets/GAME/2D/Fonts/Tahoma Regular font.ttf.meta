@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: bd0680672b03fc240bd9e699409b3429
+timeCreated: 1576181005
+licenseType: Store
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Tahoma
+  fontNames:
+  - Tahoma
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c6accf213862bb44081426b3bec7b2ae, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159488
+  packageName: Simple 2D Platformer Template
+  packageVersion: 1.04
+  assetPath: Assets/IndieMarc/Platformer2D/Fonts/Tahoma Regular font.ttf
+  uploadId: 513708

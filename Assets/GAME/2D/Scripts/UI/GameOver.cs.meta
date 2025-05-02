@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 22537b1615eb50b43afd9c0b748ebce1
+timeCreated: 1576184248
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159488
+  packageName: Simple 2D Platformer Template
+  packageVersion: 1.04
+  assetPath: Assets/IndieMarc/Platformer2D/Scripts/UI/GameOver.cs
+  uploadId: 513708

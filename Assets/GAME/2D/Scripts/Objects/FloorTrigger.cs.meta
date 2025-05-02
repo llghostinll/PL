@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 7616ab8f17dfd39408b67afc321a08f0
+timeCreated: 1576099227
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159488
+  packageName: Simple 2D Platformer Template
+  packageVersion: 1.04
+  assetPath: Assets/IndieMarc/Platformer2D/Scripts/Objects/FloorTrigger.cs
+  uploadId: 513708

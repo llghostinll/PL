@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 03ce0cd312718b7489e027fe32ae4160
+timeCreated: 1533163465
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159488
+  packageName: Simple 2D Platformer Template
+  packageVersion: 1.04
+  assetPath: Assets/IndieMarc/Platformer2D/Tilemap/Black/tilemap_2.asset
+  uploadId: 513708

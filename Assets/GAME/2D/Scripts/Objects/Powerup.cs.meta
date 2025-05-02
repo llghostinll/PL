@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 72b807adf1e5b4640a7e542f4b47a92f
+timeCreated: 1576187376
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159488
+  packageName: Simple 2D Platformer Template
+  packageVersion: 1.04
+  assetPath: Assets/IndieMarc/Platformer2D/Scripts/Objects/Powerup.cs
+  uploadId: 513708

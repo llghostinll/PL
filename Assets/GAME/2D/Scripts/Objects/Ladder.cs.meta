@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: af91702a73c42494b80c1c0c8e646b7d
+timeCreated: 1576099228
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159488
+  packageName: Simple 2D Platformer Template
+  packageVersion: 1.04
+  assetPath: Assets/IndieMarc/Platformer2D/Scripts/Objects/Ladder.cs
+  uploadId: 513708

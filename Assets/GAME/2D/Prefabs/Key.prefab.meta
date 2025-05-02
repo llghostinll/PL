@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5565b0d40728aa44ea4441f31c95c40d
+timeCreated: 1576118087
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159488
+  packageName: Simple 2D Platformer Template
+  packageVersion: 1.04
+  assetPath: Assets/IndieMarc/Platformer2D/Prefabs/Key.prefab
+  uploadId: 513708

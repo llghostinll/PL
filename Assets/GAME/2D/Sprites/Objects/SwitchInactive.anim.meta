@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 39b87568946f2c845b5f9aee6db2c9bd
+timeCreated: 1576116076
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159488
+  packageName: Simple 2D Platformer Template
+  packageVersion: 1.04
+  assetPath: Assets/IndieMarc/Platformer2D/Sprites/Objects/SwitchInactive.anim
+  uploadId: 513708

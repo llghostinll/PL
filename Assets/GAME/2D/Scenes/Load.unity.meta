@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a0d1f7084d7c0b44e9c583e4e7745f5c
+timeCreated: 1576184659
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159488
+  packageName: Simple 2D Platformer Template
+  packageVersion: 1.04
+  assetPath: Assets/IndieMarc/Platformer2D/Scenes/Load.unity
+  uploadId: 513708
