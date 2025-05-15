@@ -557,7 +557,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 114266986982324260, guid: 4a0010468f50a4143a30a15ae02bf3f7, type: 3}
       propertyPath: index
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 114266986982324260, guid: 4a0010468f50a4143a30a15ae02bf3f7, type: 3}
       propertyPath: go_to_index
